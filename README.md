@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, MySQL, Django**
 
-- 👨‍💻 All of my projects are available at [https://vanshajnarayansingh.netlify.app/](https://vanshajnarayansingh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vanshaj-narayan-singh-web-developer/](LinkedIn Profile)
 
 - 💬 Ask me about **Frontend, Backend and Full Stack Development**
 
